@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR DE INTEGRACIONES**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Angel de Jesus Alvarez Lozano
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
